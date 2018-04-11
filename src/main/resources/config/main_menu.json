@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "ok",
+  "list": [
+    {
+      "url": "http://www.12371.cn/",
+      "title": "共产党员网",
+      "img": "http://47.93.39.97:8081/community/image/menu/back-3.jpg"
+    },
+    {
+      "url": "http://ah.wenming.cn/",
+      "title": "安徽文明网",
+      "img": " http://"
+    },
+    {
+      "url": "http://www.wuhu.gov.cn/",
+      "title": "中国芜湖",
+      "img": " http://"
+    },
+    {
+      "url": "http://ahwh.wenming.cn/",
+      "title": "芜湖文明网",
+      "img": " http://"
+    },
+    {
+      "url": "http://whsh.ahxf.gov.cn/",
+      "title": "三山先峰网",
+      "img": " http://"
+    },
+    {
+      "url": "http://newwcwy.ahxf.gov.cn/Skin4/index/ssqlhxfw",
+      "title": "龙湖先锋网",
+      "img": " http://"
+    },
+    {
+      "url": "http://www.abc.edu.cn/",
+      "title": "商贸学院",
+      "img": " http://"
+    },
+    {
+      "url": "http://www2.abc.edu.cn/jisuanji/",
+      "title": "电子信息工程系",
+      "img": " http://"
+    }
+  ]
+}
