@@ -9,16 +9,16 @@ spring:
 
   datasource:
     # dev本地数据库
-#    driver-class-name: com.mysql.jdbc.Driver
-#    username: root
-#    password: root
-#    url: jdbc:mysql://localhost:3306/community?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=true
-
-    # 测试数据库
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: Evil651894330
-    url: jdbc:mysql://rm-uf6h08zgv5n2hug20bo.mysql.rds.aliyuncs.com:3306/community?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=true
+    password: root
+    url: jdbc:mysql://localhost:3306/community?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=true
+
+    # 测试数据库
+#    driver-class-name: com.mysql.jdbc.Driver
+#    username: root
+#    password: Evil651894330
+#    url: jdbc:mysql://rm-uf6h08zgv5n2hug20bo.mysql.rds.aliyuncs.com:3306/community?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=true
 
     #druid连接池
     type: com.alibaba.druid.pool.DruidDataSource
